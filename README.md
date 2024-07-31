@@ -1,4 +1,4 @@
-**##Predicting Post-Partum Depression (PPD) Rates in Canadian Provinces**
+##Predicting Post-Partum Depression (PPD) Rates in Canadian Provinces
 
 **Project Overview**
 This project explores and predicts Post-Partum Depression (PPD) rates across Canadian provinces using a RandomForestRegressor model. The analysis leverages demographic and medical data from historical datasets, with model optimization achieved through Grid Search and cross-validation. The results are visualized to compare actual and predicted PPD rates, providing insights into maternal mental health trends across the country.
